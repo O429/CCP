@@ -26,6 +26,9 @@ python3 CCP.py --model-path /your_model_path --concept-bank Concept_base/your_co
 `````
 For the examples that we share, upon running the command above, the output image should look like the following: <br>
 
+Input image:<br>
+![Example Explanation](./image/1.png) <br>
+Output interpretation (the number of superpixels can be customized):<br>
 ![Example Explanation](./Explanation/concept_12.png) <br>
 
 
